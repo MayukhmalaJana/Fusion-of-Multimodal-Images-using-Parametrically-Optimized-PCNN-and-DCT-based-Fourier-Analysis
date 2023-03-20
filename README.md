@@ -32,8 +32,8 @@ Copyright © 2022, IEEE
 
 **Required Input :**
  
-                  Source brain images
-                  (rgb-coloured image-256*256*3, gray-grayscale image-256*256)
+        Source brain images
+        (rgb-coloured image-256*256*3, gray-grayscale image-256*256)
  
  **Output :**    
 
