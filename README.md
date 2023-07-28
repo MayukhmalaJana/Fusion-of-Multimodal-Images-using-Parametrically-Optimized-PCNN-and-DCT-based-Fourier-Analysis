@@ -48,12 +48,12 @@ Copyright © 2022, IEEE
           
            For main image fusion use: Main_Fusion.m
           
-          For example purpose, two image data has been given, one coloured another grayscale.
+          For example purposes, two image data have been given, one colored another grayscale.
           Please download your own datasets to fuse in Main_Fusion.m file
           
   # Citing this work
 
-**If you find this work useful in your research, please consider to cite the work for using this package.**
+**If you find this work useful in your research, please consider citing the work for using this package.**
 
 _M. Jana, S. Basu and A. Das, "Fusion of Multimodal Images using Parametrically Optimized PCNN and DCT based Fourier Analysis," 2022 IEEE Delhi Section Conference (DELCON), New Delhi, India, 2022, pp. 1-7, doi: 10.1109/DELCON54057.2022.9753411._
 
