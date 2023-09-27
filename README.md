@@ -14,9 +14,7 @@ Image fusion plays a significant role for proper diagnosis of diseases in the fi
 
 ![image](https://user-images.githubusercontent.com/81149819/226161030-eb3b17e6-4b13-4e08-b1a3-8a71c4e07144.png)
 
-**About the paper: Multi-target tracking using Ramanujan Sum based DWT**
-
-Fusion of Multimodal Images using Parametrically Optimized PCNN and DCT based Fourier Analysis
+**About the paper: Fusion of Multimodal Images using Parametrically Optimized PCNN and DCT based Fourier Analysis**
 
 Conference Proceedings: 2022 IEEE Delhi Section Conference (DELCON)
 
